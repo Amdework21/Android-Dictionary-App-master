@@ -18,9 +18,10 @@
 
         android:background="@drawable/border"
         android:fontFamily="sans-serif"
-        android:hint=" Enter the word to search"
-        android:inputType="none"
-
+        android:hint=" የሚፈልጉትን ቃል ያስገቡ"
+        android:inputType="text"
+        android:digits="አኤልብድዮትእንተበ"/>
+        android:minHeight="48dp"
         android:padding="7dp" />
 
     <Button
